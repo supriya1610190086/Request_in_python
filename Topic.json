@@ -1,0 +1,12 @@
+{
+    "id": "2364",
+    "parent_exercise_id": "2347",
+    "name": " Question 14",
+    "slug": "dictionary__Questions/question14",
+    "sequence_num": 7014,
+    "review_type": "peer",
+    "solution": null,
+    "content": "[{\"type\":\"markdown\",\"value\":\"Ek program likho jo ki dictionaries ki values ko sort(ascending or descending) kar de. `Input :- ` \"}]",
+    "submission_type": "url",
+    "github_link": "https://github.com/navgurukul/newton/tree/master/dictionary/Questions/question14.md"
+}
